@@ -17,6 +17,8 @@ but by:
   ``` npm run test ```
 #### run the dev server
   ``` npm run dev ```
+#### unit tests results
+  ![](images/1.PNG)
 
 
 

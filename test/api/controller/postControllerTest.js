@@ -6,7 +6,7 @@ const routes = require("../../../src/api/routes/index");
 
 app.use("/", routes);
 
-describe("ping route works", () => {
+describe("project test", () => {
   it("Check if the website is up & running", (done) => {
     supertest(app)
       .get("/api/ping")
